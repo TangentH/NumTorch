@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+tqdm
+
+# For visualization
+networkx
+scikit-learn
+
+# For augmentation (not use by then)
+scikit-image
